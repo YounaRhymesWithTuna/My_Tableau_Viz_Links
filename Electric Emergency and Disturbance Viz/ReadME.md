@@ -15,12 +15,12 @@ hopefully, it will be updated soon). The type of questions that can be answered 
 
 Method:
 I created a new column called the 'Time Took For Restoration (hrs.)' in Excel by subtracting the 'Time of Restoration' from the 'Time Event Began' column 
-and I used Pandas and Regex to clean texts. 
+and I used Pandas and Regex to clean texts (Check out my Cleaning_Electric_Data.ipynb).
 
 Messy Text:
 An example of a row would be something like 'New York: Dutchess County, Orange County, Missouri: Clay County, Jackson County; Kansas: Johnson County;'.
 I used REGEX and Pandas to separate the state and its counties from other states and their counties. Using these tools, I was able to compile states 
-into one, nice column and counties another. The final cleaned data is on the Final_Cleaned_Data_Electric_Disturbance Excel file.
+into one, nice column and counties another. The final cleaned data is on the Final_Cleaned_Data_Electric_Disturbance csv file.
 
 
 
