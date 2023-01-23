@@ -1,4 +1,5 @@
-Electric Emergency and Disturbance Report (Jan.2020- Aug.2022) 
+Electric Emergency and Disturbance Report (Jan.2020- Aug.2022) Dashboard Link: 
+https://public.tableau.com/views/ElectricDisturbanceUSA12020-82022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 Dashboard Source: https://www.oe.netl.doe.gov/OE417_annual_summary.aspx
 
 Summary:
